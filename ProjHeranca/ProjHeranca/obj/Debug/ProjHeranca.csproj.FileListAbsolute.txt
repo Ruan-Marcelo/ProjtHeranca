@@ -1,0 +1,21 @@
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.AssemblyReference.cache
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.SuggestedBindingRedirects.cache
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.FormHeranca.resources
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.Properties.Resources.resources
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.GenerateResource.cache
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.CoreCompileInputs.cache
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\bin\Debug\ProjHeranca.exe.config
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\bin\Debug\ProjHeranca.exe
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\bin\Debug\ProjHeranca.pdb
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.exe
+D:\Projeto ruan m. r. Luz\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.pdb
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\bin\Debug\ProjHeranca.exe.config
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\bin\Debug\ProjHeranca.exe
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\bin\Debug\ProjHeranca.pdb
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.FormHeranca.resources
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.Properties.Resources.resources
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.GenerateResource.cache
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.exe
+C:\Users\black\Downloads\ProjHeranca\ProjHeranca\ProjHeranca\obj\Debug\ProjHeranca.pdb
